@@ -11,3 +11,6 @@ Diagram
 
 4. System Django
    <img src="https://github.com/lawweiliang/helpcatdjangoimage/blob/main/image/4-system-django.png" width="1000">
+
+5. Django folder structure
+   <img src="https://github.com/lawweiliang/helpcatdjangoimage/blob/main/image/5-django-folder-structure.png" width="1000">
